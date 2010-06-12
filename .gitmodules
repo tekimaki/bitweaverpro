@@ -31,6 +31,3 @@
 [submodule "liberty"]
 	path = liberty
 	url = git://bitweaver.org/liberty.git
-[submodule "root"]
-	path = root
-	url = git://bitweaver.org/root.git
