@@ -6,7 +6,7 @@
 	url = git@github.com:bitweaver/iconstyle_tango.git
 [submodule "kernel"]
 	path = kernel
-	url = git@github.com:Tekimaki/kernel.git
+	url = git@github.com:tekimaki/kernel.git
 [submodule "storage"]
 	path = storage
 	url = git@github.com:bitweaver/storage.git
@@ -21,13 +21,13 @@
 	url = git@github.com:bitweaver/util.git
 [submodule "themes"]
 	path = themes
-	url = git@github.com:Tekimaki/themes.git
+	url = git@github.com:tekimaki/themes.git
 [submodule "users"]
 	path = users
-	url = git@github.com:Tekimaki/users.git
+	url = git@github.com:tekimaki/users.git
 [submodule "languages"]
 	path = languages
 	url = git@github.com:bitweaver/languages.git
 [submodule "liberty"]
 	path = liberty
-	url = git@github.com:Tekimaki/liberty.git
+	url = git@github.com:tekimaki/liberty.git
