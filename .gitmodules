@@ -1,33 +1,33 @@
 [submodule "style/basic"]
 	path = style/basic
-	url = git://bitweaver.org/style_basic.git
+	url = git@github.com:bitweaver/style_basic.git
 [submodule "icon_styles/tango"]
 	path = icon_styles/tango
-	url = git://bitweaver.org/iconstyle_tango.git
+	url = git@github.com:bitweaver/iconstyle_tango.git
 [submodule "kernel"]
 	path = kernel
-	url = git://bitweaver.org/kernel.git
+	url = git@github.com:bitweaver/kernel.git
 [submodule "storage"]
 	path = storage
-	url = git://bitweaver.org/storage.git
+	url = git@github.com:bitweaver/storage.git
 [submodule "install"]
 	path = install
-	url = git://bitweaver.org/install.git
+	url = git@github.com:bitweaver/install.git
 [submodule "temp"]
 	path = temp
-	url = git://bitweaver.org/temp.git
+	url = git@github.com:bitweaver/temp.git
 [submodule "util"]
 	path = util
-	url = git://bitweaver.org/util.git
+	url = git@github.com:bitweaver/util.git
 [submodule "themes"]
 	path = themes
-	url = git://bitweaver.org/themes.git
+	url = git@github.com:bitweaver/themes.git
 [submodule "users"]
 	path = users
-	url = git://bitweaver.org/users.git
+	url = git@github.com:bitweaver/users.git
 [submodule "languages"]
 	path = languages
-	url = git://bitweaver.org/languages.git
+	url = git@github.com:bitweaver/languages.git
 [submodule "liberty"]
 	path = liberty
-	url = git://bitweaver.org/liberty.git
+	url = git@github.com:bitweaver/liberty.git
