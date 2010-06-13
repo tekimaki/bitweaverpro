@@ -31,3 +31,6 @@
 [submodule "liberty"]
 	path = liberty
 	url = git@github.com:tekimaki/liberty.git
+[submodule "lcconfig"]
+	path = lcconfig
+	url = http://github.com/bitweaver/lcconfig.git
