@@ -1,9 +1,3 @@
-[submodule "style/basic"]
-	path = style/basic
-	url = git@github.com:bitweaver/style_basic.git
-[submodule "icon_styles/tango"]
-	path = icon_styles/tango
-	url = git@github.com:bitweaver/iconstyle_tango.git
 [submodule "kernel"]
 	path = kernel
 	url = git@github.com:tekimaki/kernel.git
