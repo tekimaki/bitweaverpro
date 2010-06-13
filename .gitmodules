@@ -27,7 +27,7 @@
 	url = git@github.com:tekimaki/liberty.git
 [submodule "lcconfig"]
 	path = lcconfig
-	url = git@github.com:bitweaver/lcconfig.git
+	url = git@github.com:tekimaki/lcconfig.git
 [submodule "groups"]
 	path = groups
 	url = git@github.com:tekimaki/groups.git
