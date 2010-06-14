@@ -34,3 +34,6 @@
 [submodule "libertysecure"]
 	path = libertysecure
 	url = git@github.com:tekimaki/libertysecure.git
+[submodule "pigeonholes"]
+	path = pigeonholes
+	url = git@github.com:tekimaki/pigeonholes.git
