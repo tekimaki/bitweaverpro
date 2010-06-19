@@ -1,30 +1,30 @@
 [submodule "kernel"]
 	path = kernel
-	url = http://github.com:tekimaki/kernel.git
+	url = git@github.com:tekimaki/kernel.git
 [submodule "storage"]
 	path = storage
-	url = http://github.com:bitweaver/storage.git
+	url = git@github.com:bitweaver/storage.git
 [submodule "install"]
 	path = install
-	url = http://github.com:bitweaver/install.git
+	url = git@github.com:bitweaver/install.git
 [submodule "temp"]
 	path = temp
-	url = http://github.com:bitweaver/temp.git
+	url = git@github.com:bitweaver/temp.git
 [submodule "util"]
 	path = util
-	url = http://github.com:bitweaver/util.git
+	url = git@github.com:bitweaver/util.git
 [submodule "themes"]
 	path = themes
-	url = http://github.com:tekimaki/themes.git
+	url = git@github.com:tekimaki/themes.git
 [submodule "users"]
 	path = users
-	url = http://github.com:tekimaki/users.git
+	url = git@github.com:tekimaki/users.git
 [submodule "languages"]
 	path = languages
-	url = http://github.com:bitweaver/languages.git
+	url = git@github.com:bitweaver/languages.git
 [submodule "liberty"]
 	path = liberty
-	url = http://github.com:tekimaki/liberty.git
+	url = git@github.com:tekimaki/liberty.git
 [submodule "lcconfig"]
 	path = lcconfig
 	url = git@github.com:tekimaki/lcconfig.git
