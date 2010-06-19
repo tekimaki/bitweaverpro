@@ -1,0 +1,5 @@
+This is a git superproject. It contains many nested submodule repositories. To checkout, first clone this repository, then update all the nested submodules with:
+
+git submodule update --init --recursive
+
+See git documentation on submodules for forking and modifying code
