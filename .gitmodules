@@ -43,3 +43,6 @@
 [submodule "styles/icons/tango"]
 	path = styles/icons/tango
 	url = git@github.com:bitweaver/iconstyle_tango.git
+[submodule "geoserver"]
+	path = geoserver
+	url = git@github.com:bitweaver/geoserver.git
