@@ -103,3 +103,6 @@
 [submodule "yamlconfig"]
 	path = yamlconfig
 	url = git@github.com:bitweaver/yamlconfig.git
+[submodule "reblog"]
+	path = reblog
+	url = git@github.com:bitweaver/reblog.git
