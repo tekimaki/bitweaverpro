@@ -106,3 +106,9 @@
 [submodule "reblog"]
 	path = reblog
 	url = git@github.com:bitweaver/reblog.git
+[submodule "badbehavior"]
+	path = badbehavior
+	url = git@github.com:bitweaver/badbehavior.git
+[submodule "pigeonprefs"]
+	path = pigeonprefs
+	url = git@github.com:tekimaki/pigeonprefs.git
