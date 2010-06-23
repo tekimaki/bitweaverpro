@@ -6,7 +6,7 @@
 	url = git@github.com:bitweaver/storage.git
 [submodule "install"]
 	path = install
-	url = git@github.com:bitweaver/install.git
+	url = git@github.com:tekimaki/install.git
 [submodule "temp"]
 	path = temp
 	url = git@github.com:bitweaver/temp.git
@@ -21,16 +21,16 @@
 	url = git@github.com:tekimaki/users.git
 [submodule "languages"]
 	path = languages
-	url = git@github.com:bitweaver/languages.git
+	url = git@github.com:tekimaki/languages.git
 [submodule "liberty"]
 	path = liberty
 	url = git@github.com:tekimaki/liberty.git
 [submodule "lcconfig"]
 	path = lcconfig
 	url = git@github.com:tekimaki/lcconfig.git
-[submodule "styles/layouts/basic"]
-	path = styles/layouts/basic
+[submodule "config/styles/layouts/basic"]
+	path = config/styles/layouts/basic
 	url = git@github.com:tekimaki/style_basic.git
-[submodule "styles/icons/tango"]
-	path = styles/icons/tango
+[submodule "config/styles/icons/tango"]
+	path = config/styles/icons/tango
 	url = git@github.com:bitweaver/iconstyle_tango.git
