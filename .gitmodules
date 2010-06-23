@@ -37,11 +37,11 @@
 [submodule "pigeonholes"]
 	path = pigeonholes
 	url = git@github.com:tekimaki/pigeonholes.git
-[submodule "styles/layouts/basic"]
-	path = styles/layouts/basic
+[submodule "config/styles/layouts/basic"]
+	path = config/styles/layouts/basic
 	url = git@github.com:tekimaki/style_basic.git
-[submodule "styles/icons/tango"]
-	path = styles/icons/tango
+[submodule "config/styles/icons/tango"]
+	path = config/styles/icons/tango
 	url = git@github.com:bitweaver/iconstyle_tango.git
 [submodule "geoserver"]
 	path = geoserver
