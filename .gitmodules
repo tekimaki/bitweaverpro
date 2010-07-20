@@ -30,7 +30,7 @@
 	url = http://github.com/tekimaki/lcconfig.git
 [submodule "config/themes/basic"]
 	path = config/themes/basic
-	url = http://github.com/tekimaki/style_basic.git
+	url = http://github.com/bitweaver/theme_basic.git
 [submodule "config/iconsets/tango"]
 	path = config/iconsets/tango
 	url = http://github.com/bitweaver/iconset_tango.git
