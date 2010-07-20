@@ -33,4 +33,4 @@
 	url = git@github.com:tekimaki/style_basic.git
 [submodule "config/iconsets/tango"]
 	path = config/iconsets/tango
-	url = git@github.com:bitweaver/iconstyle_tango.git
+	url = git@github.com:bitweaver/iconset_tango.git
