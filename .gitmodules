@@ -28,9 +28,9 @@
 [submodule "lcconfig"]
 	path = lcconfig
 	url = git@github.com:tekimaki/lcconfig.git
-[submodule "config/styles/layouts/basic"]
-	path = config/styles/layouts/basic
+[submodule "config/themes/basic"]
+	path = config/themes/basic
 	url = git@github.com:tekimaki/style_basic.git
-[submodule "config/styles/icons/tango"]
-	path = config/styles/icons/tango
+[submodule "config/iconsets/tango"]
+	path = config/iconsets/tango
 	url = git@github.com:bitweaver/iconstyle_tango.git
