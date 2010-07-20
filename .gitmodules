@@ -39,7 +39,7 @@
 	url = git@github.com:tekimaki/pigeonholes.git
 [submodule "config/themes/basic"]
 	path = config/themes/basic
-	url = git@github.com:tekimaki/style_basic.git
+	url = git@github.com:bitweaver/theme_basic.git
 [submodule "config/iconsets/tango"]
 	path = config/iconsets/tango
 	url = git@github.com:bitweaver/iconset_tango.git
