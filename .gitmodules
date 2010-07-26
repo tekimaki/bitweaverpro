@@ -112,3 +112,6 @@
 [submodule "pigeonprefs"]
 	path = pigeonprefs
 	url = git@github.com:tekimaki/pigeonprefs.git
+[submodule "treasury"]
+	path = treasury
+	url = git@github.com:bitweaver/treasury.git
