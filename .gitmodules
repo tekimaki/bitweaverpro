@@ -115,3 +115,6 @@
 [submodule "treasury"]
 	path = treasury
 	url = git@github.com:bitweaver/treasury.git
+[submodule "libertystructure"]
+	path = libertystructure
+	url = git@github.com:tekimaki/libertystructure.git
