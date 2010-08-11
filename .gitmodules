@@ -118,3 +118,9 @@
 [submodule "wiki"]
 	path = wiki
 	url = git@github.com:tekimaki/wiki.git
+[submodule "libertygraph"]
+	path = libertygraph
+	url = git@github.com:tekimaki/libertygraph.git
+[submodule "pkgmkr"]
+	path = pkgmkr
+	url = git@github.com:tekimaki/bitweaver-package-maker.git
