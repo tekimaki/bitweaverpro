@@ -97,9 +97,6 @@
 [submodule "tags"]
 	path = tags
 	url = git@github.com:bitweaver/tags.git
-[submodule "wiki"]
-	path = wiki
-	url = git@github.com:bitweaver/wiki.git
 [submodule "yamlconfig"]
 	path = yamlconfig
 	url = git@github.com:bitweaver/yamlconfig.git
@@ -118,3 +115,6 @@
 [submodule "libertystructure"]
 	path = libertystructure
 	url = git@github.com:tekimaki/libertystructure.git
+[submodule "wiki"]
+	path = wiki
+	url = git@github.com:tekimaki/wiki.git
