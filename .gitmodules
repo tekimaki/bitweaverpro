@@ -34,3 +34,6 @@
 [submodule "config/iconsets/tango"]
 	path = config/iconsets/tango
 	url = git@github.com:bitweaver/iconset_tango.git
+[submodule "libertystructure"]
+	path = libertystructure
+	url = git@github.com:tekimaki/libertystructure.git
