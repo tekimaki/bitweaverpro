@@ -127,3 +127,12 @@
 [submodule "gatekeeper"]
 	path = gatekeeper
 	url = git@github.com:tekimaki/gatekeeper.git
+[submodule "accounts"]
+	path = accounts
+	url = git@github.com:tekimaki/accounts.git
+[submodule "categories"]
+	path = categories
+	url = git@github.com:tekimaki/categories.git
+[submodule "fckeditor"]
+	path = fckeditor
+	url = git@github.com:tekimaki/fckeditor.git
