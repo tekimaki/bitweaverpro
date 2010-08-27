@@ -3,7 +3,7 @@
 	url = git@github.com:tekimaki/kernel.git
 [submodule "storage"]
 	path = storage
-	url = git@github.com:bitweaver/storage.git
+	url = git@github.com:tekimaki/storage.git
 [submodule "install"]
 	path = install
 	url = git@github.com:tekimaki/install.git
@@ -12,7 +12,7 @@
 	url = git@github.com:bitweaver/temp.git
 [submodule "util"]
 	path = util
-	url = git@github.com:bitweaver/util.git
+	url = git@github.com:tekimaki/util.git
 [submodule "themes"]
 	path = themes
 	url = git@github.com:tekimaki/themes.git
