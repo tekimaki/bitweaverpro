@@ -124,3 +124,6 @@
 [submodule "pkgmkr"]
 	path = pkgmkr
 	url = git@github.com:tekimaki/bitweaver-package-maker.git
+[submodule "gatekeeper"]
+	path = gatekeeper
+	url = git@github.com:tekimaki/gatekeeper.git
