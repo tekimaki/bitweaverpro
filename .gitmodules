@@ -1,138 +1,138 @@
 [submodule "kernel"]
 	path = kernel
-	url = git@github.com:tekimaki/kernel.git
+	url = git://github.com/tekimaki/kernel.git
 [submodule "storage"]
 	path = storage
-	url = git@github.com:tekimaki/storage.git
+	url = git://github.com/tekimaki/storage.git
 [submodule "install"]
 	path = install
-	url = git@github.com:tekimaki/install.git
+	url = git://github.com/tekimaki/install.git
 [submodule "temp"]
 	path = temp
-	url = git@github.com:bitweaver/temp.git
+	url = git://github.com/bitweaver/temp.git
 [submodule "util"]
 	path = util
-	url = git@github.com:tekimaki/util.git
+	url = git://github.com/tekimaki/util.git
 [submodule "themes"]
 	path = themes
-	url = git@github.com:tekimaki/themes.git
+	url = git://github.com/tekimaki/themes.git
 [submodule "users"]
 	path = users
-	url = git@github.com:tekimaki/users.git
+	url = git://github.com/tekimaki/users.git
 [submodule "languages"]
 	path = languages
-	url = git@github.com:tekimaki/languages.git
+	url = git://github.com/tekimaki/languages.git
 [submodule "liberty"]
 	path = liberty
-	url = git@github.com:tekimaki/liberty.git
+	url = git://github.com/tekimaki/liberty.git
 [submodule "lcconfig"]
 	path = lcconfig
-	url = git@github.com:tekimaki/lcconfig.git
+	url = git://github.com/tekimaki/lcconfig.git
 [submodule "groups"]
 	path = groups
-	url = git@github.com:tekimaki/groups.git
+	url = git://github.com/tekimaki/groups.git
 [submodule "libertysecure"]
 	path = libertysecure
-	url = git@github.com:tekimaki/libertysecure.git
+	url = git://github.com/tekimaki/libertysecure.git
 [submodule "pigeonholes"]
 	path = pigeonholes
-	url = git@github.com:tekimaki/pigeonholes.git
+	url = git://github.com/tekimaki/pigeonholes.git
 [submodule "config/themes/basic"]
 	path = config/themes/basic
-	url = git@github.com:bitweaver/theme_basic.git
+	url = git://github.com/bitweaver/theme_basic.git
 [submodule "config/iconsets/tango"]
 	path = config/iconsets/tango
-	url = git@github.com:bitweaver/iconset_tango.git
+	url = git://github.com/bitweaver/iconset_tango.git
 [submodule "geoserver"]
 	path = geoserver
-	url = git@github.com:tekimaki/geoserver.git
+	url = git://github.com/tekimaki/geoserver.git
 [submodule "diasalsa"]
 	path = diasalsa
-	url = git@github.com:tekimaki/diasalsa.git
+	url = git://github.com/tekimaki/diasalsa.git
 [submodule "topica"]
 	path = topica
-	url = git@github.com:tekimaki/topica.git
+	url = git://github.com/tekimaki/topica.git
 [submodule "blogs"]
 	path = blogs
-	url = git@github.com:tekimaki/blogs.git
+	url = git://github.com/tekimaki/blogs.git
 [submodule "boards"]
 	path = boards
-	url = git@github.com:tekimaki/boards.git
+	url = git://github.com/tekimaki/boards.git
 [submodule "switchboard"]
 	path = switchboard
-	url = git@github.com:tekimaki/switchboard.git
+	url = git://github.com/tekimaki/switchboard.git
 [submodule "geo"]
 	path = geo
-	url = git@github.com:tekimaki/geo.git
+	url = git://github.com/tekimaki/geo.git
 [submodule "home"]
 	path = home
-	url = git@github.com:tekimaki/sitehome.git
+	url = git://github.com/tekimaki/sitehome.git
 [submodule "maps"]
 	path = maps
-	url = git@github.com:tekimaki/gmap.git
+	url = git://github.com/tekimaki/gmap.git
 [submodule "ilike"]
 	path = ilike
-	url = git@github.com:tekimaki/ilike.git
+	url = git://github.com/tekimaki/ilike.git
 [submodule "fisheye"]
 	path = fisheye
-	url = git@github.com:tekimaki/fisheye.git
+	url = git://github.com/tekimaki/fisheye.git
 [submodule "modcomments"]
 	path = modcomments
-	url = git@github.com:tekimaki/modcomments.git
+	url = git://github.com/tekimaki/modcomments.git
 [submodule "moderation"]
 	path = moderation
-	url = git@github.com:tekimaki/moderation.git
+	url = git://github.com/tekimaki/moderation.git
 [submodule "recommends"]
 	path = recommends
-	url = git@github.com:tekimaki/recommends.git
+	url = git://github.com/tekimaki/recommends.git
 [submodule "rss"]
 	path = rss
-	url = git@github.com:tekimaki/rss.git
+	url = git://github.com/tekimaki/rss.git
 [submodule "sharethis"]
 	path = sharethis
-	url = git@github.com:tekimaki/sharethis.git
+	url = git://github.com/tekimaki/sharethis.git
 [submodule "stars"]
 	path = stars
-	url = git@github.com:tekimaki/stars.git
+	url = git://github.com/tekimaki/stars.git
 [submodule "tags"]
 	path = tags
-	url = git@github.com:tekimaki/tags.git
+	url = git://github.com/tekimaki/tags.git
 [submodule "yamlconfig"]
 	path = yamlconfig
-	url = git@github.com:tekimaki/yamlconfig.git
+	url = git://github.com/tekimaki/yamlconfig.git
 [submodule "reblog"]
 	path = reblog
-	url = git@github.com:tekimaki/reblog.git
+	url = git://github.com/tekimaki/reblog.git
 [submodule "badbehavior"]
 	path = badbehavior
-	url = git@github.com:tekimaki/badbehavior.git
+	url = git://github.com/tekimaki/badbehavior.git
 [submodule "pigeonprefs"]
 	path = pigeonprefs
-	url = git@github.com:tekimaki/pigeonprefs.git
+	url = git://github.com/tekimaki/pigeonprefs.git
 [submodule "treasury"]
 	path = treasury
-	url = git@github.com:tekimaki/treasury.git
+	url = git://github.com/tekimaki/treasury.git
 [submodule "libertystructure"]
 	path = libertystructure
-	url = git@github.com:tekimaki/libertystructure.git
+	url = git://github.com/tekimaki/libertystructure.git
 [submodule "wiki"]
 	path = wiki
-	url = git@github.com:tekimaki/wiki.git
+	url = git://github.com/tekimaki/wiki.git
 [submodule "libertygraph"]
 	path = libertygraph
-	url = git@github.com:tekimaki/libertygraph.git
+	url = git://github.com/tekimaki/libertygraph.git
 [submodule "pkgmkr"]
 	path = pkgmkr
-	url = git@github.com:tekimaki/bitweaver-package-maker.git
+	url = git://github.com/tekimaki/bitweaver-package-maker.git
 [submodule "gatekeeper"]
 	path = gatekeeper
-	url = git@github.com:tekimaki/gatekeeper.git
+	url = git://github.com/tekimaki/gatekeeper.git
 [submodule "accounts"]
 	path = accounts
-	url = git@github.com:tekimaki/accounts.git
+	url = git://github.com/tekimaki/accounts.git
 [submodule "categories"]
 	path = categories
-	url = git@github.com:tekimaki/categories.git
+	url = git://github.com/tekimaki/categories.git
 [submodule "fckeditor"]
 	path = fckeditor
-	url = git@github.com:tekimaki/fckeditor.git
+	url = git://github.com/tekimaki/fckeditor.git
