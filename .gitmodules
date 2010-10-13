@@ -136,3 +136,6 @@
 [submodule "fckeditor"]
 	path = fckeditor
 	url = git@github.com:tekimaki/fckeditor.git
+[submodule "blurb"]
+	path = blurb
+	url = git@github.com:tekimaki/blurb.git
