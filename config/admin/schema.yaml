@@ -1,0 +1,20 @@
+---
+config: 
+  version: 0.0.0
+  homeable: false
+  required: true
+  requirements: 
+    liberty: 
+      min: 2.1.7
+    users: 
+      min: 2.1.4
+    themes: 
+      min: 2.0.1
+    languages: 
+      min: 2.0.0
+  description: The config package contains configuration for the site.
+  license: 
+    name: LGPL
+    description: Licensed under the GNU LESSER GENERAL PUBLIC LICENSE.
+    url: http://www.gnu.org/copyleft/lesser.html 
+  homeable: false
