@@ -19,7 +19,7 @@ if( !$gBitSystem->isDatabaseValid() ) {
 	}
 }
 
-if( !empty( $_REQUEST['content_id'] )) {
+if( !empty( $_REQUEST['content_id'] ) && empty( $_POST['content_id'] ) ) {
 	if( $obj = LibertyBase::getLibertyObject( $_REQUEST['content_id'] )) {
 		$url = $obj->getDisplayUrl();
 		if( !empty($_REQUEST['highlight'] )) {
